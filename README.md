@@ -9,6 +9,9 @@ I first watched a YouTube tutorial (https://www.youtube.com/watch?v=gs0FNQR0njI&
 
 So I attempted another YouTube tutorial (https://www.youtube.com/watch?v=KBjBPQExJLw&ab_channel=CodeX), this time with Phyton in Visual Studio Code. After doing some debugging, thankfully, it worked and gave 20GB of space in my local disk  now this program can easily organize my folder by categorizing it by the file extensions.
 
+<img width="371" alt="image" src="https://github.com/ggovert/FileOrganizer/assets/111510965/1de7a308-2f4d-413f-b5d4-00e13f2d30ab">
+Here is the python code that i used to organize my file
+
 <img width="579" alt="Screenshot 2023-07-06 035530" src="https://github.com/ggovert/FileOrganizer/assets/111510965/59e922c2-74e9-4591-b6e0-1c3af3eefe22">
 
 
